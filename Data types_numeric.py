@@ -1,0 +1,9 @@
+a=5
+b=5.5
+c=5+5j
+print(a)
+print(type(a))
+print(b)
+print(type(b))
+print(c)
+print(type(c))
